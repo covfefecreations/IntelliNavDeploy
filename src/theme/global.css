@@ -54,6 +54,19 @@
   --font-mono: 'JetBrains Mono', monospace;
 }
 
+[data-theme='technologyForestDaylight'] {
+  --bg-deepNight: #f0f4f8;
+  --bg-forestShadow: #d8e0e8;
+  --bg-panel: rgba(255, 255, 255, 0.6);
+
+  --text-primary: #1a202c;
+  --text-secondary: #4a5568;
+
+  --shadow-softGlow: 0px 0px 12px rgba(0, 100, 200, 0.2);
+  --shadow-sharpGlow: 0px 0px 18px rgba(200, 80, 150, 0.3);
+  --shadow-ambient: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
 /* Global Base */
 body {
   margin: 0;
